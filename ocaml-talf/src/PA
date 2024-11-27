@@ -1,0 +1,21 @@
+
+#
+# diapositiva 134 AFD que acepta a|(ab)+
+#
+
+# Estados
+0 1;
+
+# Terminales
+a;
+
+# Estado inicial
+0;
+
+# Estados finales
+1;
+
+# Transiciones
+0 0 a;
+0 1 a;
+

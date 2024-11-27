@@ -1,0 +1,1 @@
+S A B X Y I J K; a b; S; S -> Y A | X B; A -> Y I | X S | a; I -> A A; B -> X J | Y S | b; J -> B K; K -> B B; X -> a; Y -> b;
